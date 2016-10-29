@@ -1,0 +1,19 @@
+a) Features in the handout that you have implemented
+In Basic server
+and Concurrent server (fork, thread, pool of thread):
+1.Simple test
+2.Complex test
+3.Cgi-bin/test-env
+4.Cgi-bin/test-cgi
+5.Cgi-bin/finger
+6.Cgi-bin/pizza
+
+b) Features in the handout that you have not implemented
+1.404 NOT FOUND 
+2.argv in test-cgi
+
+c) Extra features
+1.POST method for cgi-bin 
+2.browsing directories
+3.loadable modules
+
